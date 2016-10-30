@@ -15,6 +15,10 @@ class Listing {
         this.agent = null;
         this.urlDetail = null;
         this.images = [];
+        this.description = null;
+        this.level = null;
+        this.area = null;
+        this.ownership = null;
     }
 
     addImage(image)
